@@ -1,0 +1,4 @@
+<!--pages/index/index.wxml-->
+<view>
+  <loading>正在加载...</loading>
+</view>

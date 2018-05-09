@@ -1,0 +1,8 @@
+<!--pages/login/login.wxml-->
+<view class="login_box">
+  <form bindsubmit="formSubmit">
+    <input class="login_input" name="username" type="text" placeholder="邮箱/手机号/用户名" value="123456"></input>
+    <input class="login_input" name="password" type="password" placeholder="密码" value="123456"></input>
+    <button class="login_button" formType="submit">确定绑定</button>
+  </form>
+</view>

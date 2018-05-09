@@ -1,0 +1,37 @@
+page {
+  background: #efeff4;
+}
+
+.topic_text {
+  display: block;
+  font-size: 32rpx;
+  color: #908f95;
+  line-height: 100rpx;
+  text-indent: 20rpx;
+}
+
+.red_text {
+  color: red;
+}
+
+.grey_text {
+  color: #aaa;
+}
+
+.bg_white {
+  background: #fff;
+}
+
+.arrow_right {
+  display: inline-block;
+  height: 20rpx;
+  width: 20rpx;
+  border-width: 3rpx 3rpx 0 0;
+  border-color: #C8C8CD;
+  border-style: solid;
+  transform: matrix(0.71,0.71,-0.71,0.71,0,0);
+  position: absolute;
+  right: 20rpx;
+  top: 50%;
+  margin-top: -10rpx;
+}

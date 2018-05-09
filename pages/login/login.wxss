@@ -1,0 +1,31 @@
+/* pages/login/login.wxss */
+.login_box {
+  width: 74%;
+  background: #fff;
+  margin-left: 5%;
+  margin-top: 20%;
+  box-shadow: 5rpx 5rpx 20rpx 3rpx rgba(0, 0, 0, .2);
+  text-align: center;
+  padding: 100rpx 8%;
+}
+
+.login_topic {
+  font-size: 60rpx;
+  margin-bottom: 50rpx;
+  display: block;
+}
+
+.login_input {
+  font-size: 32rpx;
+  text-align: left;
+  border-bottom: 2px solid #eee;
+  padding: 15rpx 5rpx;
+  display: block;
+  margin-top: 30rpx;
+}
+
+.login_button {
+  margin-top: 100rpx;
+  color: #fff;
+  background: #4286f5;
+}

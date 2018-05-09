@@ -1,0 +1,12 @@
+/* pages/contact/contact.wxss */
+button {
+  background: #fff;
+  display: block;
+  color: #4a89f2;
+  border: 1px solid #4a89f2;
+  font-size: 32rpx;
+  line-height: 80rpx;
+  margin-right: 20rpx;
+  margin-top: 10rpx;
+  padding: 0 50rpx;
+}
